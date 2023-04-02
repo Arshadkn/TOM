@@ -23,7 +23,7 @@ class script(object):
 <b>㊗️ᴍᴀɪɴᴛᴀɴɪɴɢ ʙʏ : @Arskottu  </b>"""
 
     ABOUT_TXT = """🗽 𝘖𝘸𝘯𝘦𝘳 🗽
-    Aʀsʜᴀᴅ Kᴏᴛᴛᴀʏɪ🇮🇳
+    Aʀsʜᴀᴅ Kᴏᴛᴛᴀʏɪ🇮🇳"""
 
     SOURCE_TXT = """<b>NOTE:</b>
 <b>- 𝙴𝙻𝚂𝙰 𝙸𝚂 𝙾𝙿𝙴𝙽 𝚂𝙾𝚄𝚁𝙲𝙴 𝙿𝚁𝙾𝙹𝙴𝙲𝚃. 
