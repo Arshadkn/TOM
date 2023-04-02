@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Azanpopz/COOL-BOT",
-    "repository": "https://github.com/Azanpopz/COOL-BOT",
+    "website": "https://github.com/Arshadkn/TOM",
+    "repository": "https://github.com/Arshadkn/TOM",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
