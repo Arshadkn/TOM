@@ -3,14 +3,8 @@ class script(object):
 
 <b>㊗️ᴍᴀɪɴᴛᴀɴɪɴɢ ʙʏ : @Arskottu  </b>"""
     
-    HELP_TXT = """
-<b>○ 𝖬𝗒 𝖭𝖺𝗆e : DORAV3
-○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/Arskottu'>𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇</a>
-○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥 
-○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖺𝗌𝗒𝗇𝖼𝗂𝗈 𝟢.𝟣𝟩.𝟣 
-○ 𝖲𝖾𝗋𝗏𝖾𝗋 : Contabo
-○ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 : <a href='https://www.mongodb.com'>𝖬𝗈𝗇𝗀𝗈𝖣𝖡</a>
-○ 𝖡𝗎𝗂𝗅𝖽 𝖲𝗍𝖺𝗍𝗎𝗌 : 𝖵9.8 [BeTa] </b>"""
+    HELP_TXT ="""🗽 𝘖𝘸𝘯𝘦𝘳 🗽
+    Aʀsʜᴀᴅ Kᴏᴛᴛᴀʏɪ🇮🇳 """
 
     HELPER_TXT = """
 <b>ʜᴇy {}
