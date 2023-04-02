@@ -4,9 +4,13 @@ class script(object):
 <b>㊗️ᴍᴀɪɴᴛᴀɴɪɴɢ ʙʏ : @Arskottu  </b>"""
     
     HELP_TXT = """
-ʜᴇʏ ʙʀᴏ 🥶
-
-ɴᴏᴡ ɪᴛs ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ᴋᴇᴇᴘ sᴜᴘᴘᴏʀᴛ. ᴀᴅᴅ ɪᴛ sᴏᴏɴ​ ❤️"""
+<b>○ 𝖬𝗒 𝖭𝖺𝗆e : DORAV3
+○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/Arskottu'>𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇</a>
+○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥 
+○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖺𝗌𝗒𝗇𝖼𝗂𝗈 𝟢.𝟣𝟩.𝟣 
+○ 𝖲𝖾𝗋𝗏𝖾𝗋 : Contabo
+○ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 : <a href='https://www.mongodb.com'>𝖬𝗈𝗇𝗀𝗈𝖣𝖡</a>
+○ 𝖡𝗎𝗂𝗅𝖽 𝖲𝗍𝖺𝗍𝗎𝗌 : 𝖵9.8 [BeTa] </b>"""
 
     HELPER_TXT = """
 <b>ʜᴇy {}
@@ -363,14 +367,7 @@ This file 📁 will be deleted ❌ from this group 📍 within 10 ⏰ minutes du
 
 🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='t.me/Kinzanoufal'>ꜰᴏxʏ ᴛɢ</a></b>"""
     
-    RENDERING_TXT = """
-⚡️ʟɪᴠᴇ sʏsᴛᴇᴍ sᴛᴀᴛᴜs ⚡️
-
-❂ ʀᴀᴍ ●●●●●●●◌◌◌
-✇ ᴄᴘᴜ ●●●●●●●◌◌◌
-✪ ᴅᴀᴛᴀ ᴛʀᴀꜰɪᴄs ●●●●◌◌◌◌◌◌ 🛰
-
-ᴠ2.7.1 [sᴛᴀʙʟᴇ] """
+    RENDERING_TXT = """👋 Exᴄʟᴜꜱɪᴠᴇʟʏ Mᴀᴅᴇ Tʜɪꜱ Bᴏᴛ Fᴏʀ Tᴇᴀᴍ Dᴄᴇɴɪᴍᴀs...!!!"""
     SETTING_TXT = """    
 <b>ѕeттιngѕ
 ~ sᴇᴛᴛɪɴɢs ɪs ᴍᴏsᴛ ɪᴍᴘᴏʀᴛᴀɴᴛ ғᴇᴀᴛᴜʀᴇs ɪɴ ᴛʜɪs ʙᴏᴛ.
