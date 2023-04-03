@@ -100,11 +100,11 @@ async def start(client, message):
         btn = [
                 [
                     InlineKeyboardButton(
-                        "JOIN CHANNEL", url=invite_link.invite_link
+                        "🍒 𝘑ᴏɪɴ Mʏ 𝘊ʜᴀɴɴᴇʟ 🍒", url=invite_link.invite_link
                     ),
                     InlineKeyboardButton(
-                        text="NEW MOVIES",
-                        url="https://t.me/+cACZdXU2LH8xOGE1"
+                        text="🀄 𝘜ᴘᴅᴀᴛᴇs 🀄 ",
+                        url="https://t.me/DCENIMAS_HD"
                     ),
                 ]
                 
@@ -117,12 +117,12 @@ async def start(client, message):
                 btn.append([InlineKeyboardButton(" 🔄 Try Again", callback_data=f"{pre}#{file_id}")])
             except (IndexError, ValueError):
                 btn.append([InlineKeyboardButton(" 🔄 Try Again", url=f"https://t.me/{temp.U_NAME}?start={message.command[1]}")])
-        m=await message.reply_sticker("CAACAgUAAxkBAAINdmL9uWnC3ptj9YnTjFU4YGr5dtzwAAIEAAPBJDExieUdbguzyBAeBA")
+        m=await message.reply_sticker("CAACAgUAAxkBAAEIbr1kKjb2DYqYf_xMuLigRFqprkYP5QACxAMAAnEwkVc3nVrxNSMXIS8E")
         await asyncio.sleep(1)
         await m.delete()
         await client.send_message(
             chat_id=message.from_user.id,
-            text="**PLEASE JOIN MY UPDATES CHANNEL TO USE TRY AGAIN BUTTON!**",
+            text="JoIN My",
             reply_markup=InlineKeyboardMarkup(btn),
             parse_mode=enums.ParseMode.MARKDOWN
             )
