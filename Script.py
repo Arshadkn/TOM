@@ -3,8 +3,12 @@ class script(object):
 
 <b>㊗️ᴍᴀɪɴᴛᴀɴɪɴɢ ʙʏ : @Arskottu  </b>"""
     
-    HELP_TXT ="""🗽 𝘖𝘸𝘯𝘦𝘳 🗽
-    Aʀsʜᴀᴅ Kᴏᴛᴛᴀʏɪ🇮🇳 """
+    HELP_TXT ="""🗽| 𝑨𝑩𝑶𝑼𝑻 | 🗽
+Ｏ 𝐎𝐖𝐍𝐄𝐑  𝐀𝐑𝐒𝐇𝐀𝐃 𝐊𝐎𝐓𝐓𝐀𝐘𝐈 𝐓𝐆🇮🇳 
+Ｏ 𝐒𝐄𝐑𝐕𝐄𝐑  𝐑𝐚𝐢𝐥𝐰𝐚𝐲 🚄 
+
+𝐈𝐀𝐌 𝐒𝐎 𝐅𝐀𝐒𝐓 🍒 
+"""
 
     HELPER_TXT = """
 <b>ʜᴇy {}
@@ -312,17 +316,17 @@ Now You can start earning 💸 money today with our Simple and easy-to-use bot!
 ⏱ ᴜᴘᴛɪᴍᴇ : ꜰᴇᴡ ᴅᴀʏs ᴀɢᴏ​🤘 </b>"""
 
     CHANNEL_CAP = """
-🍷 ʀᴇǫᴜsᴛᴇᴅ ʙʏ : {}
+<b>🍷 ʀᴇǫᴜsᴛᴇᴅ ʙʏ : {} </b>
 
 <code>{}</code>
 ------------------------------------
-This file 📁 will be deleted ❌ from this group 📍 within 10 ⏰ minutes due to copyright ©️
+<b> This file 📁 will be deleted ❌ from this group 📍 within 10 ⏰ minutes due to copyright ©️
 
-⏩ How To Forward : <a href='https://t.me/TelegramTips/242'>Click Here</a>"""
+⏩ How To Forward : <a href='https://t.me/TelegramTips/242'>Click Here</a> </b>"""
 
 
     DONE_MSG = """
-<b>HAI BROO YOUR 🗃️ FILE DELETE Successfully ✔️ </b>
+<b>🗃️ FILE DELETE Successfully ✔️ </b>
 """
 
 
@@ -356,7 +360,9 @@ This file 📁 will be deleted ❌ from this group 📍 within 10 ⏰ minutes du
 
 🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='t.me/Kinzanoufal'>ꜰᴏxʏ ᴛɢ</a></b>"""
     
-    RENDERING_TXT = """👋 Exᴄʟᴜꜱɪᴠᴇʟʏ Mᴀᴅᴇ Tʜɪꜱ Bᴏᴛ Fᴏʀ Tᴇᴀᴍ Dᴄᴇɴɪᴍᴀs...!!!"""
+    RENDERING_TXT = """✏️ | 𝐇𝐄𝐋𝐏 | ✏️
+𝑰 𝒂𝒎 𝑶𝒏𝒍𝒚 𝑨 𝑺𝒊𝒎𝒑𝒍𝒆 𝑨𝒖𝒕𝒐𝒇𝒊𝒍𝒕𝒆𝒓 𝑩𝑶𝑻 𝑭𝒐𝒓 𝑫𝑪𝑬𝑵𝑰𝑴𝑨𝑺 ㊗️
+𝑺𝑶 𝑵𝑶 𝑯𝑬𝑳𝑷🀄"""
     SETTING_TXT = """    
 <b>ѕeттιngѕ
 ~ sᴇᴛᴛɪɴɢs ɪs ᴍᴏsᴛ ɪᴍᴘᴏʀᴛᴀɴᴛ ғᴇᴀᴛᴜʀᴇs ɪɴ ᴛʜɪs ʙᴏᴛ.
